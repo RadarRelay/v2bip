@@ -21,3 +21,11 @@ This phrase can be then passed back to v2bip to regenerate the unsealing key:
 
     $ echo "choose easily unit train young hello bitter rebuild dress enrich claim goose exist basic brain nature drill lava interest twenty public valley cube abandon" | v2bip -d
     Bq/D1o6y619yF5NjXEwn5khTUsIVs0LZq3+ucdtRYUI=
+
+
+## Installing
+
+This package is available in the RadarRelay/radar [brew](https://brew.sh) tap:
+
+    $ brew tap radarrelay/radar
+    $ brew install v2bip
